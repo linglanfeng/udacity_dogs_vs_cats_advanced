@@ -9,7 +9,7 @@
 
 项目使用Android调用Tensorflow自训练模型进行为用户提供服务的基本示例。
 
-详细介绍请看：[知乎](https://zhuanlan.zhihu.com/p/35183566)
+详细介绍请看：[知乎](https://zhuanlan.zhihu.com/p/35234132)
 
 
 ##### 图片选择：
